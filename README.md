@@ -1,2 +1,2 @@
-# race-of-hexagons
+# race-of-hexagons (development!!!)
  A hexagon platform racing game
